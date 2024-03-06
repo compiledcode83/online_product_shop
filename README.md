@@ -54,3 +54,29 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# - How it works
+
+## First Page
+<img src="./img_share/First_page.png" width="100%"/> <br>
+
+## Login Page
+<img src="./img_share/LoginPage.png" width="100%"/> <br>
+
+## Register Page
+<img src="./img_share/Register Page.png" width="100%"/> <br>
+
+## Login Invalid Value Page
+<img src="./img_share/LoginPage_invalid.png" width="100%"/> <br>
+
+## Catalog Page after Login Success
+<img src="./img_share/Catalog_Login_Success.png" width="100%"/> <br>
+
+## Catalog Infinite Scroll
+<img src="./img_share/Catalog_InfiniteScroll.png" width="100%"/> <br>
+
+## Basket Page
+<img src="./img_share/basket.png" width="100%"/> <br>
+
+## Error handling
+<img src="./img_share/Error_testing.png" width="100%"/> <br>
